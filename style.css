@@ -6,16 +6,16 @@ body {
   }
   
   header {
-    background-color: #4CAF50;
+    background-color: #680000;
     color: white;
     text-align: center;
     padding: 1em 0;
   }
   
   nav a {
-    color: white;
+    color: rgb(250, 208, 208);
     margin: 0 15px;
-    text-decoration: none;
+    text-decoration: antiquewhite;
     font-weight: bold;
   }
   
@@ -42,20 +42,16 @@ body {
   }
   
   button {
-    background-color: #4CAF50;
+    background-color: #912626;
     color: white;
     padding: 8px 12px;
     border: none;
     cursor: pointer;
     border-radius: 5px;
   }
-  
-  button:hover {
-    background-color: #45a049;
-  }
-  
+
   footer {
-    background-color: #333;
+    background-color: #860000;
     color: white;
     text-align: center;
     padding: 15px 0;
